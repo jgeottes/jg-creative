@@ -13,3 +13,6 @@
 
 /* Preserve the stadium-focused cover composition on desktop and phones. */
 .hero-photo img{height:auto;aspect-ratio:1536/772;object-fit:contain;object-position:center}
+
+/* A separate campus photograph in About, outside the sports gallery. */
+.about-layout{align-items:center}.about-identity h2{margin-bottom:28px}.about-photo{margin:0;max-width:390px;padding:14px;background:#fff}.about-photo img{display:block;width:100%;height:auto}@media(max-width:600px){.about-photo{padding:10px;max-width:100%}}
